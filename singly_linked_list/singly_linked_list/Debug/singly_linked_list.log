@@ -1,0 +1,3 @@
+﻿  Source1_full_options.cpp
+C:\Users\Admin\source\repos\singly_linked_list\singly_linked_list\Source1_full_options.cpp(181): warning C4715: 'list_A::removed': not all control paths return a value
+  singly_linked_list.vcxproj -> C:\Users\Admin\source\repos\singly_linked_list\Debug\singly_linked_list.exe
